@@ -14,3 +14,6 @@ This repository includes experiments with:
 - **Chatbot Frameworks**: Custom-built models.
 - **Programming Languages**: Python.
 - **Other Tools**: JSON, Pickle, Warnings module.
+
+## License
+This project will be licensed under the **MIT License**, meaning it’s open-source and free to use or modify.
